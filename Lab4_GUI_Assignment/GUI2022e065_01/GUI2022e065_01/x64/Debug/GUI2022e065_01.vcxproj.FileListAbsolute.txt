@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\visual_s\GUI2022e065_01\GUI2022e065_01\x64\Debug\GUI2022e065_01.vcxproj.AssemblyReference.cache
+C:\Users\HP\Documents\visual_s\GUI2022e065_01\GUI2022e065_01\x64\Debug\GUI2022e06501.MyForm.resources
+C:\Users\HP\Documents\visual_s\GUI2022e065_01\GUI2022e065_01\x64\Debug\GUI2022e065_01.vcxproj.GenerateResource.cache
+D:\2022E065_2\Computing\Lab04_2022e065\Lab04_2022e065\GUI2022e065_01\GUI2022e065_01\x64\Debug\GUI2022e065_01.vcxproj.AssemblyReference.cache
+D:\2022E065_2\Computing\Lab04_2022e065\Lab04_2022e065\GUI2022e065_01\GUI2022e065_01\x64\Debug\GUI2022e06501.MyForm.resources
+D:\2022E065_2\Computing\Lab04_2022e065\Lab04_2022e065\GUI2022e065_01\GUI2022e065_01\x64\Debug\GUI2022e065_01.vcxproj.GenerateResource.cache
